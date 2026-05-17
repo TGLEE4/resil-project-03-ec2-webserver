@@ -121,3 +121,4 @@ terraform destroy
 
 ## Author
 **Teng Lee**
+Computer Science Student 
